@@ -19,3 +19,4 @@ EXPOSE 80
 CMD ["/usr/sbin/apachectl", "-D", "FOREGROUND"]
 
 ##git test
+##deploytest
